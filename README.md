@@ -1,3 +1,3 @@
 # Data-Structure
 hello,
-      basic implementation and standard code, ralated to data structure
+      this is basic implementation and standard code, ralated to data structure
