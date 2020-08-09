@@ -1,3 +1,8 @@
+// implementation of Magic Square.
+----
+----
+
+
 #include<stdio.h>
 void main()
 {int i,j,n,k,l,num,ar[500][500];
